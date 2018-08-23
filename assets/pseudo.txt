@@ -1,0 +1,33 @@
+word
+word array
+index
+blanks
+letters
+wins
+loses
+
+
+
+
+
+what is going to happen
+
+start game 
+
+pick random word from pool
+
+get letter input
+check if used letter already
+    display message if used already
+    else move on
+
+check letter if in word
+    if in word deblank area(s)
+    if blank are filled win counter plus onen
+    else add successive picture of stan
+    add wrong guess counter
+    move on
+    
+if number of wrong guesses exceed 6 plus game loses
+reset game from word from game pool
+
